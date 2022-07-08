@@ -1,0 +1,14 @@
+
+git --version
+
+git init     //creates a new git repository
+
+git add . or git add <fileName> //add the file whose changes you need to add/record
+
+git commit -m "Message"
+
+Stagging area: area where iles will add to commit
+
+
+git init
+git status
